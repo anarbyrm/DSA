@@ -1,2 +1,3 @@
 # DSA
-My humble DSA solution handbook
+
+This repo contains my solutions for the specified problems from LeetCode.
